@@ -1,5 +1,5 @@
 # Awesome Argument Generation
-Paper list for argument generation task
+A curated list of recent awesome argument generation models and their applications. Please help to contribute if you find some important works are missing.
 
 ## Argument Summary
 Argument Summary is a task which aims at generating conclusions for augument texts, and helping people read and understand search results from argument serch engines.
